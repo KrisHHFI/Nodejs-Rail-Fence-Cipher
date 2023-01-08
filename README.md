@@ -1,6 +1,6 @@
 # Rail_Fence_Cipher_Nodejs
 
-Check out the [demo video](...).
+Check out the [demo video](https://youtu.be/MZKhY5Yaw50).
 
 ### Launch the App
 
