@@ -1,6 +1,6 @@
 # Rail_Fence_Cipher_Nodejs
 
-<img src="https://images.squarespace-cdn.com/content/v1/587b630aebbd1ab22efeeb6b/e5928860-d529-4a17-b163-79401808c057/Rail+Fence+Cipher.png"/>
+<img src="Rail Fence Cipher.png"/>
 
 Check out the [demo video](https://youtu.be/MZKhY5Yaw50).
 
